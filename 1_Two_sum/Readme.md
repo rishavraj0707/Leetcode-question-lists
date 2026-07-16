@@ -8,6 +8,10 @@ You may assume that each input has exactly one solution, and you may not use the
 
 ---
 
+## Link 
+https://leetcode.com/problems/two-sum/description/
+---
+
 ## Approach
 
 This solution uses a **nested loop (brute-force)** approach.
