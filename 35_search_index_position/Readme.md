@@ -6,7 +6,7 @@ Given a sorted array of distinct integers `nums` and a target value `target`, re
 
 You must write an algorithm with `O(log n)` runtime complexity.
 
-**LeetCode Link:** [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+**LeetCode Link:** https://leetcode.com/problems/search-insert-position/
 
 ---
 
