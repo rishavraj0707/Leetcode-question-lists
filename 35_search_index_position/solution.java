@@ -18,7 +18,7 @@ public class solution {
 
     public static void main(String[] args) {
         int[] nums = {1, 3, 5, 6};
-        int target = 2;
+        int target = 5;
 
         solution sol = new solution();
         int value = sol.searchInsert(nums, target);
