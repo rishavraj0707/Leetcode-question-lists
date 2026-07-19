@@ -6,6 +6,9 @@ Given an array `prices` where `prices[i]` is the price of a stock on the `i-th` 
 - You can complete **only one transaction** (buy once and sell once).
 - If no profit is possible, return `0`.
 
+## Link
+* https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=problem-list-v2&envId=array *
+
 ## Example
 
 **Input:**
