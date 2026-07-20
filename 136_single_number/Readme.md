@@ -4,6 +4,9 @@
 
 Given a non-empty array of integers `nums`, every element appears twice except for one. Find that single one.
 
+### Link 
+https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=array
+
 ### Example 1
 **Input:**
 ```text
@@ -107,6 +110,7 @@ Compile the program:
 
 ```bash
 javac Main.java
+
 ```
 
 Run the program:
@@ -114,3 +118,6 @@ Run the program:
 ```bash
 java Main
 ```
+
+### Author
+*Rishav Raj*
