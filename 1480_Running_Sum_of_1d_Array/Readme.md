@@ -10,6 +10,9 @@ The **running sum** of an array is defined as:
 
 ---
 
+### Link
+https://leetcode.com/problems/running-sum-of-1d-array/description/
+
 ## Example 1
 
 **Input:**
@@ -139,3 +142,7 @@ Run the program:
 ```bash
 java Main
 ```
+
+
+### Author
+*Rishav Raj*
